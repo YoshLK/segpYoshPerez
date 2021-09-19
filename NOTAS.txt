@@ -1,0 +1,4 @@
+Como gestor utilize XAMP v3.3.0
+Como editor Visual code con la extencion de Bootstrap 5 Quick Snippets
+Link de los archivos en GitHub:
+Link en Drive:

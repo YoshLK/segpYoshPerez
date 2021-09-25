@@ -4,7 +4,7 @@
 define('HOST_NAME', 'localhost');
 define('DATABASE_NAME', 'gestioncv');
 define('USER', 'root');
-define('PASSWORD', '123456');
+define('PASSWORD', '12345678');
 define('CHARSET', 'utf8');
 
 ?>
